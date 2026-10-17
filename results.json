@@ -1,0 +1,2697 @@
+{
+ "inputs": {
+  "deficit_fy26": {
+   "value": 1992.473,
+   "source": "MTS",
+   "note": "Table 3 'Surplus or Deficit', FYTD"
+  },
+  "deficit_fy25": {
+   "value": 1775.369,
+   "source": "MTS",
+   "note": "Table 3 prior-period FYTD"
+  },
+  "receipts_fy26": {
+   "value": 5403.327,
+   "source": "MTS",
+   "note": "Table 3 Total Receipts"
+  },
+  "receipts_fy25": {
+   "value": 5234.616,
+   "source": "MTS",
+   "note": "Table 3"
+  },
+  "outlays_fy26": {
+   "value": 7395.8,
+   "source": "MTS",
+   "note": "Table 3 Total Outlays"
+  },
+  "outlays_fy25": {
+   "value": 7009.986,
+   "source": "MTS",
+   "note": "Table 3"
+  },
+  "individual_fy26": {
+   "value": 2845.527,
+   "source": "MTS",
+   "note": "Table 3"
+  },
+  "individual_fy25": {
+   "value": 2656.044,
+   "source": "MTS",
+   "note": "Table 3"
+  },
+  "corp_net_fy26": {
+   "value": 381.415,
+   "source": "MTS",
+   "note": "Table 3/9"
+  },
+  "corp_net_fy25": {
+   "value": 452.089,
+   "source": "MTS",
+   "note": "Table 3/9"
+  },
+  "corp_gross_fy26": {
+   "value": 442.9,
+   "source": "MTS",
+   "note": "Table 4 Corporation Income Taxes, gross"
+  },
+  "corp_gross_fy25": {
+   "value": 486.363,
+   "source": "MTS",
+   "note": "Table 4"
+  },
+  "corp_refunds_fy26": {
+   "value": 61.485,
+   "source": "MTS",
+   "note": "Table 4 refunds"
+  },
+  "corp_refunds_fy25": {
+   "value": 34.273,
+   "source": "MTS",
+   "note": "Table 4 refunds"
+  },
+  "social_ins_fy26": {
+   "value": 1811.7939999999999,
+   "source": "MTS",
+   "note": "Table 3: employment + UI + other retirement"
+  },
+  "social_ins_fy25": {
+   "value": 1748.295,
+   "source": "MTS",
+   "note": "Table 3"
+  },
+  "excise_fy26": {
+   "value": 105.995,
+   "source": "MTS",
+   "note": "Table 3"
+  },
+  "excise_fy25": {
+   "value": 105.936,
+   "source": "MTS",
+   "note": "Table 3"
+  },
+  "estate_gift_fy26": {
+   "value": 38.72,
+   "source": "MTS",
+   "note": "Table 3"
+  },
+  "estate_gift_fy25": {
+   "value": 29.462,
+   "source": "MTS",
+   "note": "Table 3"
+  },
+  "misc_fy26": {
+   "value": 46.657,
+   "source": "MTS",
+   "note": "Table 3"
+  },
+  "misc_fy25": {
+   "value": 47.925,
+   "source": "MTS",
+   "note": "Table 3"
+  },
+  "customs_net_fy26": {
+   "value": 173.219,
+   "source": "MTS",
+   "note": "Table 3 net customs duties; revenue line inside the residual"
+  },
+  "customs_net_fy25": {
+   "value": 194.866,
+   "source": "MTS",
+   "note": "Table 3"
+  },
+  "outlays_by_function": {
+   "value": {
+    "National Defense": [
+     965.16,
+     916.649
+    ],
+    "International Affairs": [
+     48.015,
+     45.17
+    ],
+    "Science/Space/Technology": [
+     39.877,
+     42.084
+    ],
+    "Energy": [
+     20.971,
+     20.892
+    ],
+    "Natural Resources & Environment": [
+     57.098,
+     88.312
+    ],
+    "Agriculture": [
+     52.566,
+     49.358
+    ],
+    "Commerce & Housing Credit": [
+     -15.465,
+     -28.626
+    ],
+    "Transportation": [
+     142.864,
+     145.804
+    ],
+    "Community & Regional Development": [
+     62.43,
+     84.53
+    ],
+    "Education/Training/Social Services": [
+     107.551,
+     71.014
+    ],
+    "Health (incl. Medicaid)": [
+     1025.587,
+     978.878
+    ],
+    "Medicare": [
+     1072.626,
+     996.719
+    ],
+    "Income Security": [
+     694.224,
+     701.584
+    ],
+    "Social Security": [
+     1667.097,
+     1580.686
+    ],
+    "Veterans Benefits": [
+     416.204,
+     377.162
+    ],
+    "Administration of Justice": [
+     109.915,
+     85.182
+    ],
+    "General Government": [
+     32.343,
+     34.454
+    ],
+    "Net Interest (Treasury function)": [
+     1051.754,
+     970.359
+    ],
+    "Undistributed Offsetting Receipts": [
+     -155.019,
+     -150.225
+    ]
+   },
+   "source": "MTS",
+   "note": "Table 9 Net Outlays, (FY26, FY25)"
+  },
+  "net_interest_cbo_def_fy26": {
+   "value": 1142.282,
+   "source": "MTS",
+   "note": "Table 3: gross interest 1,359.953 less undistributed interest 217.671; matches CBO MBR Table 3 ($1,143B)"
+  },
+  "net_interest_cbo_def_fy25": {
+   "value": 1028.067,
+   "source": "MTS",
+   "note": "Table 3; matches CBO MBR Table 3 ($1,028B)"
+  },
+  "cbo_mbr_deficit_change": {
+   "value": 218,
+   "source": "MBR",
+   "note": "Summary; Table 1 (rounded)"
+  },
+  "cbo_corp_change": {
+   "value": -70,
+   "source": "MBR",
+   "note": "Table 2: -$70B (-16%); text attributes to 2025 reconciliation act's larger investment deductions"
+  },
+  "cbo_sept_timing": {
+   "value": "Sept 1 2025 holiday shifted payments into Aug 2025 (within FY2025); Sept 2025 surplus $198B -> $110B adjusted",
+   "source": "MBR",
+   "note": "p.5, Table 4 note a"
+  },
+  "cbo_education_sept25_student_loan": {
+   "value": -131.0,
+   "source": "MBR",
+   "note": "p.5: Sept 2025 recorded a $131B reduction in Education outlays from OBBBA student-loan program modifications"
+  },
+  "base_corp_fy26": {
+   "value": 404.0,
+   "source": "BASE",
+   "note": "Table 1-1"
+  },
+  "obbba_score": {
+   "value": {
+    "outlays": {
+     "2025": -152.014,
+     "2026": 26.338
+    },
+    "revenues": {
+     "2025": -130.904,
+     "2026": -460.501
+    },
+    "deficit": {
+     "2025": -21.11,
+     "2026": 486.839
+    }
+   },
+   "source": "SCORE",
+   "note": "Summary Table 'Total Changes'; deficit = outlays - revenues"
+  },
+  "obbba_debt_service": {
+   "value": {
+    "2025": 0.398,
+    "2026": 14.143
+   },
+   "source": "DEBTSVC",
+   "note": "Table 1 'Changes From Debt Service'"
+  },
+  "jct_current_policy_title7_revenue": {
+   "value": {
+    "2025": -124.612,
+    "2026": -255.056
+   },
+   "source": "JCX34",
+   "note": "Total line; Title VII revenue provisions only"
+  },
+  "nonTitleVII_revenue": {
+   "value": {
+    "2025": -0.0010000000000047748,
+    "2026": 1.0680000000000405
+   },
+   "source": "SCORE",
+   "note": "Summary Table: total revenues minus Title VII revenues"
+  },
+  "business_provisions": {
+   "value": {
+    "70301 Full expensing, business property": [
+     -33.5,
+     -65.1
+    ],
+    "70302 Domestic R&E expensing": [
+     -53.8,
+     -33.6
+    ],
+    "70303 Business interest limit (EBITDA)": [
+     -8.3,
+     -6.5
+    ],
+    "70306 Sec. 179 limits": [
+     -2.3,
+     -4.3
+    ],
+    "70307 Qualified production property": [
+     -2.2,
+     -30.3
+    ],
+    "70308 Adv. manufacturing credit": [
+     0.0,
+     -1.7
+    ],
+    "70304 Paid leave credit": [
+     0.0,
+     -0.1
+    ],
+    "International provisions (70311-70313, 70321-23, 70331, 70341-42, 70351-54), net": [
+     0.0,
+     -10.1
+    ]
+   },
+   "source": "SCORE",
+   "note": "Title VII sheet, JCT revenue rows by section (rounded to $0.1B). Covers ALL taxpayers (corporate + pass-through); JCT does not publish a corporate-only split here."
+  },
+  "cbo_obbba_corp_effect_fy26": {
+   "value": 98.0,
+   "source": "OUTLOOK26",
+   "note": "Outlook 2026-2036 (Feb 2026), 'Corporate Income Taxes' paragraph under legislative changes; p.106 of PDF. Level effect vs Jan-2025 law"
+  },
+  "cbo_obbba_individual_effect_fy26": {
+   "value": 361.0,
+   "source": "OUTLOOK26",
+   "note": "same page; includes pass-through business income"
+  },
+  "jan25_baseline_corp_fy25": {
+   "value": 523.7,
+   "source": "JAN25",
+   "note": "Table B-1"
+  },
+  "jan25_baseline_corp_fy26": {
+   "value": 495.1,
+   "source": "JAN25",
+   "note": "Table B-1"
+  },
+  "bea_profits_econ_basis": {
+   "value": {
+    "2023Q4": 3885.951,
+    "2024Q1": 3970.797,
+    "2024Q2": 4071.805,
+    "2024Q3": 4035.126,
+    "2024Q4": 4296.969,
+    "2025Q1": 3966.993,
+    "2025Q2": 3997.597,
+    "2025Q3": 4240.461,
+    "2025Q4": 4464.427,
+    "2026Q1": 4673.22,
+    "2026Q2": 5111.956
+   },
+   "source": "FRED",
+   "note": "Corporate profits with IVA & CCAdj, $B SAAR"
+  },
+  "bea_profits_tax_basis": {
+   "value": {
+    "2023Q4": 3471.403,
+    "2024Q1": 3543.767,
+    "2024Q2": 3632.837,
+    "2024Q3": 3642.877,
+    "2024Q4": 3808.821,
+    "2025Q1": 3478.754,
+    "2025Q2": 3523.971,
+    "2025Q3": 3736.828,
+    "2025Q4": 3880.594,
+    "2026Q1": 4154.402,
+    "2026Q2": 4565.549
+   },
+   "source": "FRED",
+   "note": "Corporate profits before tax without IVA/CCAdj, $B SAAR"
+  },
+  "gdp_quarterly": {
+   "value": {
+    "2025Q4": 31462.523,
+    "2026Q1": 31906.274,
+    "2026Q2": 32563.03
+   },
+   "source": "FRED",
+   "note": "Nominal GDP, $B SAAR"
+  },
+  "gdp_2026q3_assumed_qoq_growth": {
+   "value": 0.016,
+   "source": "ASSUMPTION",
+   "note": "UNVERIFIED. BEA advance Q3 GDP is scheduled Oct 29, 2026 (not yet published). +1.6% q/q nominal = Atlanta Fed GDPNow real 3.7% SAAR (Oct 6, via Trading Economics) plus an ASSUMED ~3% deflator. Sensitivity in results."
+  },
+  "prov_cbo_sec70101": {
+   "value": [
+    0,
+    -147.679,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70101 Extension and Enhancement of Reduced Rates: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70102": {
+   "value": [
+    -7.544,
+    -90.405,
+    0,
+    1.719
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70102 Extension and Enhancement of Increased Standard Deduction: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70103": {
+   "value": [
+    -9.264,
+    111.036,
+    0,
+    0.411
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70103 Termination of Deduction for Personal Exemptions Other Than Temporary Senior Deduction: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70104": {
+   "value": [
+    0,
+    -48.769,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70104 Extension and Enhancement of Increased Child Tax Credit: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70108": {
+   "value": [
+    0,
+    1.639,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70108 Extension and Modification of Limitation on Deduction for Qualified Residence Interest: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70109": {
+   "value": [
+    0,
+    0.086,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70109 Extension and Modification of Limitation on Casualty Loss Deduction: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70115": {
+   "value": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70115 Extension and Enhancement of Increased Limitation on Contributions to ABLE Accounts: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70116": {
+   "value": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70116 Extension and Enhancement of Savers Credit Allowed for ABLE Contributions: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70117": {
+   "value": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70117 Extension of Rollovers from Qualified Tuition Programs to ABLE Accounts Permitted: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70120": {
+   "value": [
+    -5.07,
+    31.805,
+    0,
+    0.188
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70120 Limitation on Individual Deductions for Certain State and Local Taxes: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70204": {
+   "value": [
+    0,
+    0.132,
+    0.731,
+    6.628
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70204 Trump Accounts and Contribution Pilot Program: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70402": {
+   "value": [
+    -0.004,
+    -0.009,
+    0.185,
+    0.41
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70402 Enhancement of Adoption Credit: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70403": {
+   "value": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70403 Recognizing Indian Tribal Governments (adoption credit): [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70404": {
+   "value": [
+    0,
+    -0.365,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70404 Enhancement of the Dependent Care Assistance Program: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70405": {
+   "value": [
+    0,
+    -0.409,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70405 Enhancement of Child and Dependent Care Tax Credit: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70421": {
+   "value": [
+    0,
+    0,
+    0,
+    0.01
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70421 Permanent Renewal and Enhancement of Opportunity Zones: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70427": {
+   "value": [
+    0,
+    0,
+    0,
+    0.251
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70427 Permanent Increase in Limitation on Cover Over of Tax on Distilled Spirits: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70439": {
+   "value": [
+    0,
+    -0.08,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70439 Restoration of Taxable REIT Subsidiary Asset Test: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70501": {
+   "value": [
+    0,
+    0.15,
+    0,
+    0.043
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70501 Termination of Previously-Owned Clean Vehicle Credit: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70502": {
+   "value": [
+    0,
+    0.107,
+    0,
+    -0.966
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70502 Termination of Clean Vehicle Credit: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70511": {
+   "value": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70511 Termination of Clean Hydrogen Production Credit: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70512": {
+   "value": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70512 Termination and Restrictions on Clean Electricity Production Credit: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70513": {
+   "value": [
+    0,
+    0.281,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70513 Termination and Restrictions on Clean Electricity Investment Credit: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70514": {
+   "value": [
+    -0.027,
+    1.731,
+    -0.027,
+    -0.095
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70514 Phase-Out and Restrictions on Advanced Manufacturing Production Credit: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70531": {
+   "value": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70531 Modifications to De Minimis Entry Privilege for Commercial Shipments: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70605": {
+   "value": [
+    0.185,
+    0.752,
+    -0.061,
+    -0.251
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70605 Enforcement Provisions With Respect to COVID-Related Employee Retention Credits: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70606": {
+   "value": [
+    0,
+    0.015,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70606 Social Security Number Requirement for American Opportunity and Lifetime Learning Credits: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70607": {
+   "value": [
+    0,
+    0,
+    0,
+    0.008
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70607 Task Force on the Replacement of Direct File: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71101": {
+   "value": [
+    0,
+    0,
+    0,
+    -1.668
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71101 Moratorium: Medicare Savings Programs eligibility rule: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71102": {
+   "value": [
+    0,
+    -0.162,
+    0,
+    -4.02
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71102 Moratorium: eligibility and enrollment rule (Medicaid, CHIP, BHP): [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71103": {
+   "value": [
+    0,
+    0,
+    0,
+    0.001
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71103 Reducing Duplicate Enrollment (Medicaid, CHIP): [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71104": {
+   "value": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71104 Ensuring Deceased Individuals Do Not Remain Enrolled: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71105": {
+   "value": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71105 Ensuring Deceased Providers Do Not Remain Enrolled: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71106": {
+   "value": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71106 Payment Reduction for Erroneous Excess Payments: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71107": {
+   "value": [
+    0,
+    0,
+    0,
+    0.004
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71107 Eligibility Redeterminations: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71108": {
+   "value": [
+    0,
+    0,
+    -0.001,
+    -0.005
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71108 Home Equity Limit for Long-Term Care Eligibility: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71109": {
+   "value": [
+    0,
+    0,
+    0,
+    -0.372
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71109 Alien Medicaid Eligibility: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71110": {
+   "value": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71110 Expansion FMAP for Emergency Medicaid: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71111": {
+   "value": [
+    0,
+    0,
+    0,
+    -0.287
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71111 Moratorium: Long-Term Care Staffing Standards Rule: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71112": {
+   "value": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71112 Reducing State Medicaid Costs: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71113": {
+   "value": [
+    0,
+    0,
+    -0.044,
+    -0.031
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71113 Federal Payments to Prohibited Entities: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71114": {
+   "value": [
+    0,
+    -0.059,
+    0,
+    -0.953
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71114 Sunsetting Increased FMAP Incentive: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71115": {
+   "value": [
+    0,
+    -0.188,
+    0,
+    -2.786
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71115 Provider Taxes: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71116": {
+   "value": [
+    0,
+    0,
+    0,
+    -5.457
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71116 State Directed Payments: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71117": {
+   "value": [
+    0,
+    -0.061,
+    0,
+    -3.158
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71117 Waiver of Uniform Tax Requirement for Medicaid Provider Taxes: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71118": {
+   "value": [
+    0,
+    0,
+    0,
+    0.002
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71118 Budget Neutrality for Medicaid Demonstration Projects: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71119": {
+   "value": [
+    0,
+    0,
+    0,
+    0.18
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71119 Medicaid Community Engagement Requirements: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71120": {
+   "value": [
+    0,
+    0,
+    0,
+    0.001
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71120 Cost Sharing for Expansion Individuals: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71121": {
+   "value": [
+    0,
+    0,
+    0,
+    0.002
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71121 Adjustments to Home or Community-Based Services Coverage: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71201": {
+   "value": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71201 Limiting Medicare Coverage of Certain Individuals: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71202": {
+   "value": [
+    0,
+    0,
+    0,
+    1.221
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71202 Temporary Payment Increase Under the Medicare Physician Fee Schedule: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71203": {
+   "value": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71203 Orphan Drugs Exclusion Under Drug Price Negotiation: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71301": {
+   "value": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71301 Permitting Premium Tax Credit Only for Certain Individuals: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71302": {
+   "value": [
+    0,
+    0.011,
+    0,
+    -3.307
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71302 Disallowing Premium Tax Credit During Periods of Medicaid Ineligibility (alien status): [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71303": {
+   "value": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71303 Requiring Verification of Eligibility for Premium Tax Credit: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71304": {
+   "value": [
+    0,
+    0.052,
+    0,
+    -1.587
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71304 Disallowing Premium Tax Credit for Certain Special Enrollment Period Coverage: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71305": {
+   "value": [
+    0,
+    -0.001,
+    0,
+    1.682
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71305 Eliminating Limitation on Recapture of Advance Premium Tax Credit (incl. interactions row): [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71401": {
+   "value": [
+    0,
+    0,
+    0,
+    0.472
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71401 Rural Health Transformation Program: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec73001": {
+   "value": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 73001 Ending Unemployment Payments to Jobless Millionaires: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70105": {
+   "value": [
+    -6.97,
+    -44.331,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70105 Extension and Enhancement of Deduction for Qualified Business Income: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70106": {
+   "value": [
+    -0.05,
+    -3.672,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70106 Extension and Enhancement of Increased Estate and Gift Tax Exemption Amounts: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70107": {
+   "value": [
+    0,
+    -76.835,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70107 Extension of Increased Alternative Minimum Tax Exemption Amounts: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70110": {
+   "value": [
+    0,
+    13.419,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70110 Termination of Miscellaneous Itemized Deductions Other Than Educator Expenses: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70111": {
+   "value": [
+    0,
+    -16.04,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70111 Limitation on Tax Benefit of Itemized Deductions: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70112": {
+   "value": [
+    0,
+    -0.071,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70112 Qualified Transportation Fringe Benefits: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70113": {
+   "value": [
+    0,
+    0.673,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70113 Moving Expenses Deduction and Exclusion Limitation: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70114": {
+   "value": [
+    0,
+    0.001,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70114 Limitation on Wagering Losses: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70118": {
+   "value": [
+    0,
+    -0.001,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70118 Treatment of Individuals Performing Services in the Sinai Peninsula: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70119": {
+   "value": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70119 Exclusion of Student Loans Discharged on Death or Disability: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70201": {
+   "value": [
+    0,
+    -10.121,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70201 No Tax on Tips: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70202": {
+   "value": [
+    0,
+    -32.806,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70202 No Tax on Overtime: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70203": {
+   "value": [
+    -1.932,
+    -5.4,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70203 No Tax on Car Loan Interest: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70301": {
+   "value": [
+    -33.505,
+    -65.123,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70301 Full Expensing for Certain Business Property: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70302": {
+   "value": [
+    -53.793,
+    -33.585,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70302 Full Expensing of Domestic Research and Experimental Expenditures: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70303": {
+   "value": [
+    -8.268,
+    -6.519,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70303 Modification of Limitation on Business Interest: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70304": {
+   "value": [
+    0,
+    -0.102,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70304 Paid Family and Medical Leave Credit: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70305": {
+   "value": [
+    0,
+    -0.042,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70305 Exceptions From Limitations on Deduction for Business Meals: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70306": {
+   "value": [
+    -2.301,
+    -4.292,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70306 Increased Dollar Limitations for Expensing of Depreciable Business Assets: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70307": {
+   "value": [
+    -2.167,
+    -30.28,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70307 Special Depreciation Allowance for Qualified Production Property: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70308": {
+   "value": [
+    0,
+    -1.728,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70308 Enhancement of Advanced Manufacturing Investment Credit: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70309": {
+   "value": [
+    0,
+    -0.011,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70309 Spaceports Treated Like Airports Under Exempt Facility Bond Rules: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70311": {
+   "value": [
+    0,
+    -1.347,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70311 Foreign Tax Credit Limitation: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70312": {
+   "value": [
+    0,
+    -1.476,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70312 Deemed Paid Credit for Tested Income Taxes: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70313": {
+   "value": [
+    0,
+    -0.462,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70313 Sourcing Income From Sale of US-Produced Inventory: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70321": {
+   "value": [
+    0,
+    -4.131,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70321 Foreign-Derived Deduction Eligible Income and Net CFC Tested Income: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70322": {
+   "value": [
+    0,
+    -2.08,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70322 Determination of Deduction Eligible Income: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70323": {
+   "value": [
+    0,
+    -0.394,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70323 Rules Related to Deemed Intangible Income: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70331": {
+   "value": [
+    0,
+    -1.861,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70331 Base Erosion Minimum Tax Amount: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70341": {
+   "value": [
+    0,
+    0.36,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70341 Coordination of Business Interest Limitation With Interest Capitalization: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70342": {
+   "value": [
+    0,
+    0.66,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70342 Adjusted Taxable Income for Business Interest Limitation: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70351": {
+   "value": [
+    0,
+    -0.534,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70351 Look-Thru Rule for Related CFCs: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70352": {
+   "value": [
+    0,
+    0.393,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70352 Repeal of 1-Month Deferral Election: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70353": {
+   "value": [
+    0,
+    -0.316,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70353 Limitation on Downward Attribution of Stock Ownership: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70354": {
+   "value": [
+    0,
+    0.867,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70354 Pro Rata Share Rules: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70401": {
+   "value": [
+    0,
+    -0.045,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70401 Employer-Provided Child Care Credit: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70411": {
+   "value": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70411 Credit for Contributions to Scholarship Granting Organizations: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70412": {
+   "value": [
+    0,
+    -0.706,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70412 Exclusion for Employer Payments of Student Loans: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70413": {
+   "value": [
+    0,
+    -0.022,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70413 Qualified Higher Education Expenses for 529 Accounts: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70414": {
+   "value": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70414 Postsecondary Credentialing Expenses and 529 Accounts: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70415": {
+   "value": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70415 Excise Tax on Investment Income of Private Colleges: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70416": {
+   "value": [
+    0,
+    0.236,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70416 Tax on Excess Compensation in Tax-Exempt Organizations: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70422": {
+   "value": [
+    0,
+    -0.039,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70422 Low-Income Housing Tax Credit Enhancement: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70423": {
+   "value": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70423 New Markets Tax Credit Extension: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70424": {
+   "value": [
+    0,
+    -1.543,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70424 Partial Charitable Deduction for Non-Itemizers: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70425": {
+   "value": [
+    0,
+    1.346,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70425 0.5-Percent Floor on Individual Charitable Deductions: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70426": {
+   "value": [
+    0,
+    1.276,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70426 1-Percent Floor on Corporate Charitable Deductions: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70428": {
+   "value": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70428 Nonprofit Community Development in Remote Native Villages: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70429": {
+   "value": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70429 Charitable Deduction for Alaskan Subsistence Whaling: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70430": {
+   "value": [
+    0,
+    -0.638,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70430 Percentage of Completion Method Exception: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70431": {
+   "value": [
+    0.027,
+    0.056,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70431 Expansion of Qualified Small Business Stock Gain Exclusion: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70432": {
+   "value": [
+    -0.038,
+    -1.108,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70432 De Minimis Rules for Third Party Network Transactions: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70433": {
+   "value": [
+    0,
+    -0.196,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70433 Information Reporting Threshold for Payees: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70434": {
+   "value": [
+    -0.085,
+    -0.369,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70434 Qualified Sound Recording Productions: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70435": {
+   "value": [
+    -0.009,
+    -0.06,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70435 Exclusion of Interest on Rural or Agricultural Real Property Loans: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70436": {
+   "value": [
+    -0.015,
+    -0.102,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70436 Transfer and Manufacturing Taxes on Certain Devices: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70437": {
+   "value": [
+    -0.055,
+    -0.765,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70437 Capital Gains From Sale of Farmland: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70438": {
+   "value": [
+    -0.006,
+    -0.052,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70438 Disaster-Related Personal Casualty Losses: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70503": {
+   "value": [
+    0,
+    8.303,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70503 Termination of Qualified Commercial Clean Vehicles Credit: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70504": {
+   "value": [
+    0,
+    0.02,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70504 Termination of Alternative Fuel Vehicle Refueling Property Credit: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70505": {
+   "value": [
+    0,
+    0.258,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70505 Termination of Energy Efficient Home Improvement Credit: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70506": {
+   "value": [
+    -0.142,
+    -0.753,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70506 Termination of Residential Clean Energy Credit: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70507": {
+   "value": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70507 Termination of Energy Efficient Commercial Buildings Deduction: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70508": {
+   "value": [
+    0,
+    0.104,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70508 Termination of New Energy Efficient Home Credit: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70509": {
+   "value": [
+    0.004,
+    0.057,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70509 Termination of Cost Recovery for Energy Property: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70521": {
+   "value": [
+    -0.026,
+    -1.11,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70521 Clean Fuel Production Credit Extension and Modification: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70522": {
+   "value": [
+    -0.179,
+    -0.364,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70522 Restrictions on Carbon Oxide Sequestration Credit: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70523": {
+   "value": [
+    0,
+    -0.025,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70523 Intangible Drilling and Development Costs: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70524": {
+   "value": [
+    0,
+    -0.157,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70524 Qualifying Income of Certain Publicly Traded Partnerships: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70525": {
+   "value": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70525 Payments to Certain Individuals Who Dye Fuel: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70601": {
+   "value": [
+    0,
+    0.107,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70601 Limitation on Excess Business Losses: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70602": {
+   "value": [
+    0.338,
+    1.612,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70602 Payments From Partnerships to Partners: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70603": {
+   "value": [
+    0,
+    0.643,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70603 Excessive Employee Remuneration From Controlled Groups: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec70604": {
+   "value": [
+    0,
+    0.362,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 70604 Excise Tax on Remittance Transfers: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71306": {
+   "value": [
+    -0.007,
+    -0.121,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71306 Safe Harbor for Absence of Deductible for Telehealth: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71307": {
+   "value": [
+    0,
+    -0.127,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71307 Bronze and Catastrophic Plans With HSAs: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_cbo_sec71308": {
+   "value": [
+    0,
+    0.024,
+    0,
+    0
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (sheet 'Title VII'), Sec. 71308 Direct Primary Care Service Arrangements: [FY25 revenue, FY26 revenue, FY25 outlays, FY26 outlays] $B"
+  },
+  "prov_jcx34_c1_1_rates": {
+   "value": [
+    0.0,
+    -4.948
+   ],
+   "source": "JCX34",
+   "note": "PDF p.1, Ch.1 item 1: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_c1_2_stdded": {
+   "value": [
+    -7.544,
+    -18.959
+   ],
+   "source": "JCX34",
+   "note": "PDF p.1, Ch.1 item 2: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_c1_3_persex": {
+   "value": [
+    -9.264,
+    -23.05
+   ],
+   "source": "JCX34",
+   "note": "PDF p.1, Ch.1 item 3 (includes temporary senior deduction): [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_c1_4_ctc": {
+   "value": [
+    0.0,
+    -10.014
+   ],
+   "source": "JCX34",
+   "note": "PDF p.1, Ch.1 item 4: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_c1_5_qbi": {
+   "value": [
+    0.0,
+    -0.388
+   ],
+   "source": "JCX34",
+   "note": "PDF p.1, Ch.1 item 5: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_c1_7_amt": {
+   "value": [
+    0.0,
+    0.742
+   ],
+   "source": "JCX34",
+   "note": "PDF p.1, Ch.1 item 7: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_c1_10_miscitem": {
+   "value": [
+    0.0,
+    -0.009
+   ],
+   "source": "JCX34",
+   "note": "PDF p.1, Ch.1 item 10: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_c1_11_itemlim": {
+   "value": [
+    0.0,
+    1.402
+   ],
+   "source": "JCX34",
+   "note": "PDF p.1, Ch.1 item 11: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_c1_20_salt": {
+   "value": [
+    -5.07,
+    -34.177
+   ],
+   "source": "JCX34",
+   "note": "PDF p.2, Ch.1 item 20: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_c1_total": {
+   "value": [
+    -21.878,
+    -89.657
+   ],
+   "source": "JCX34",
+   "note": "PDF p.2, Total of Chapter 1: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_c2_1_tips": {
+   "value": [
+    0.0,
+    -10.121
+   ],
+   "source": "JCX34",
+   "note": "PDF p.2, Ch.2 item 1: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_c2_2_ot": {
+   "value": [
+    0.0,
+    -32.806
+   ],
+   "source": "JCX34",
+   "note": "PDF p.2, Ch.2 item 2: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_c2_3_car": {
+   "value": [
+    -1.932,
+    -5.4
+   ],
+   "source": "JCX34",
+   "note": "PDF p.2, Ch.2 item 3: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_c2_4_trump": {
+   "value": [
+    -0.731,
+    -6.446
+   ],
+   "source": "JCX34",
+   "note": "PDF p.2, Ch.2 item 4: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_c2_total": {
+   "value": [
+    -2.663,
+    -54.773
+   ],
+   "source": "JCX34",
+   "note": "PDF p.2, Total of Chapter 2: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_c3A_1_bonus": {
+   "value": [
+    -33.505,
+    -54.214
+   ],
+   "source": "JCX34",
+   "note": "PDF p.2, Ch.3 Subch.A item 1: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_c3A_2_rnd": {
+   "value": [
+    -53.793,
+    -33.585
+   ],
+   "source": "JCX34",
+   "note": "PDF p.2, Ch.3 Subch.A item 2: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_c3A_3_163j": {
+   "value": [
+    -8.268,
+    -6.519
+   ],
+   "source": "JCX34",
+   "note": "PDF p.2, Ch.3 Subch.A item 3: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_c3A_4_leave": {
+   "value": [
+    0.0,
+    -0.102
+   ],
+   "source": "JCX34",
+   "note": "PDF p.2, Ch.3 Subch.A item 4: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_c3A_5_meals": {
+   "value": [
+    0.0,
+    2.424
+   ],
+   "source": "JCX34",
+   "note": "PDF p.2, Ch.3 Subch.A item 5: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_c3A_6_179": {
+   "value": [
+    -2.301,
+    -4.292
+   ],
+   "source": "JCX34",
+   "note": "PDF p.2, Ch.3 Subch.A item 6: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_c3A_7_qpp": {
+   "value": [
+    -2.167,
+    -30.28
+   ],
+   "source": "JCX34",
+   "note": "PDF p.3, Ch.3 Subch.A item 7: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_c3A_8_advmfg": {
+   "value": [
+    0.0,
+    -1.728
+   ],
+   "source": "JCX34",
+   "note": "PDF p.3, Ch.3 Subch.A item 8: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_c3A_9_space": {
+   "value": [
+    0.0,
+    -0.011
+   ],
+   "source": "JCX34",
+   "note": "PDF p.3, Ch.3 Subch.A item 9: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_c3_total": {
+   "value": [
+    -100.034,
+    -129.384
+   ],
+   "source": "JCX34",
+   "note": "PDF p.3, Total of Chapter 3: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_c4D_1_qsbs": {
+   "value": [
+    0.027,
+    0.056
+   ],
+   "source": "JCX34",
+   "note": "PDF p.5, Ch.4 Subch.D item 1: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_c4_total": {
+   "value": [
+    -0.271,
+    0.893
+   ],
+   "source": "JCX34",
+   "note": "PDF p.5, Total of Chapter 4: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_c5A_3_commcv": {
+   "value": [
+    0.0,
+    8.303
+   ],
+   "source": "JCX34",
+   "note": "PDF p.5, Ch.5 Subch.A item 3: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_c5_total": {
+   "value": [
+    -0.343,
+    9.619
+   ],
+   "source": "JCX34",
+   "note": "PDF p.6, Total of Chapter 5: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_c6_total": {
+   "value": [
+    0.584,
+    3.742
+   ],
+   "source": "JCX34",
+   "note": "PDF p.7, Total of Chapter 6: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_healthtax_total": {
+   "value": [
+    -0.007,
+    4.504
+   ],
+   "source": "JCX34",
+   "note": "PDF p.7, Subtitle B, Chapter 3 (Health Tax) total: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_jcx34_net_total": {
+   "value": [
+    -124.612,
+    -255.056
+   ],
+   "source": "JCX34",
+   "note": "PDF p.8, NET TOTAL: [FY2025, FY2026] $B, net budget effect (revenue less outlay effects)"
+  },
+  "prov_cbo_t1_nutrition": {
+   "value": [
+    0.0,
+    -7.961
+   ],
+   "source": "SCORE",
+   "note": "Table 1 (Title I), Subtotal, Subtitle A. Nutrition: [FY2025, FY2026] deficit effect $B"
+  },
+  "prov_cbo_t1_other": {
+   "value": [
+    0.3,
+    0.06
+   ],
+   "source": "SCORE",
+   "note": "Table 1 (Title I), total changes (FY25 0.300, FY26 -7.901) less Subtitle A: [FY2025, FY2026] deficit effect $B"
+  },
+  "prov_cbo_t2_defense": {
+   "value": [
+    2.02,
+    41.864
+   ],
+   "source": "SCORE",
+   "note": "Table 2 (Title II), Total Changes in Direct Spending: [FY2025, FY2026] deficit effect $B"
+  },
+  "prov_cbo_t3_banking": {
+   "value": [
+    -0.015,
+    0.07
+   ],
+   "source": "SCORE",
+   "note": "Summary Table, Title III net effect on the deficit: [FY2025, FY2026] deficit effect $B"
+  },
+  "prov_cbo_t4_commerce": {
+   "value": [
+    -0.064,
+    2.845
+   ],
+   "source": "SCORE",
+   "note": "Summary Table, Title IV net effect on the deficit: [FY2025, FY2026] deficit effect $B"
+  },
+  "prov_cbo_t5_energy": {
+   "value": [
+    -0.156,
+    -0.178
+   ],
+   "source": "SCORE",
+   "note": "Table 5 (Title V), Total Changes in Direct Spending: [FY2025, FY2026] deficit effect $B"
+  },
+  "prov_cbo_t6_epw": {
+   "value": [
+    -0.857,
+    -0.936
+   ],
+   "source": "SCORE",
+   "note": "Table 6 (Title VI), Total Changes in Direct Spending: [FY2025, FY2026] deficit effect $B"
+  },
+  "prov_cbo_t8_loanlimits": {
+   "value": [
+    0.0,
+    -0.96
+   ],
+   "source": "SCORE",
+   "note": "Table 8 (Title VIII), Subtotal, Subtitle B. Loan Limits: [FY2025, FY2026] deficit effect $B"
+  },
+  "prov_cbo_t8_loanrepay": {
+   "value": [
+    -149.99,
+    -12.09
+   ],
+   "source": "SCORE",
+   "note": "Table 8 (Title VIII), Subtotal, Subtitle C. Loan Repayment: [FY2025, FY2026] deficit effect $B"
+  },
+  "prov_cbo_t8_pell": {
+   "value": [
+    0.0,
+    2.73
+   ],
+   "source": "SCORE",
+   "note": "Table 8 (Title VIII), Subtotal, Subtitle D. Pell Grants: [FY2025, FY2026] deficit effect $B"
+  },
+  "prov_cbo_t8_other": {
+   "value": [
+    -4.039,
+    -0.264
+   ],
+   "source": "SCORE",
+   "note": "Table 8 (Title VIII), Total Changes in Direct Spending less Subtitles B, C and D (Subtitles A, E, F, G, H and Total Interactions): [FY2025, FY2026] deficit effect $B"
+  },
+  "prov_cbo_t9_dhs": {
+   "value": [
+    0.005,
+    9.511
+   ],
+   "source": "SCORE",
+   "note": "Table 9 (Title IX), Total Changes in Direct Spending: [FY2025, FY2026] deficit effect $B"
+  },
+  "prov_cbo_t10_judiciary": {
+   "value": [
+    0.0,
+    2.289
+   ],
+   "source": "SCORE",
+   "note": "Table 10 (Title X), outlays $3.579B less Subtitle A revenues $1.290B: [FY2025, FY2026] deficit effect $B"
+  },
+  "prov_cbo_interactions": {
+   "value": [
+    0.0,
+    0.0
+   ],
+   "source": "SCORE",
+   "note": "Summary Table, Interactions Among Titles (outlays and revenues both 0.0 in FY2026): [FY2025, FY2026] deficit effect $B"
+  },
+  "prov_cbo_title7_net": {
+   "value": [
+    131.68599999999998,
+    449.85900000000004
+   ],
+   "source": "SCORE",
+   "note": "Table 7 (Title VII): Total Changes in Direct Spending (FY25 0.783, FY26 -11.710) minus Total Changes in Revenues (FY25 -130.903, FY26 -461.569): [FY2025, FY2026] $B"
+  }
+ },
+ "results": {
+  "deficit_change_treasury": 217.10400000000004,
+  "deficit_change_pct": 0.12228669082314722,
+  "receipts_change": 168.71100000000024,
+  "outlays_change": 385.8140000000003,
+  "gdp_fy26_est": 32253.966370000002,
+  "deficit_pct_gdp": 0.0617745109901657,
+  "cbo_implied_gdp": 32136.66129032258,
+  "gdp_sensitivity": {
+   "Q3 q/q 1.1%": {
+    "fy26_gdp": 32213.2625825,
+    "deficit_pct_gdp": 0.06185256755341571
+   },
+   "Q3 q/q 1.6%": {
+    "fy26_gdp": 32253.966370000002,
+    "deficit_pct_gdp": 0.0617745109901657
+   },
+   "Q3 q/q 2.1%": {
+    "fy26_gdp": 32294.6701575,
+    "deficit_pct_gdp": 0.06169665118989534
+   }
+  },
+  "cp_count_once_adjustment": {
+   "tax_outlays_removed": {
+    "2025": 0.828,
+    "2026": 5.144
+   },
+   "medicaid_revenue_added": {
+    "2025": 0,
+    "2026": 0.47
+   },
+   "uncorrected_level_fy26": 280.32599999999996,
+   "uncorrected_yoy": 307.727
+  },
+  "q1": {
+   "level_present_law": {
+    "outlays": 26.338,
+    "revenue_loss": 460.501,
+    "deficit": 486.839,
+    "pct_of_increase_treasury": 2.2424229862185863,
+    "pct_of_increase_cbo218": 2.2332064220183487,
+    "pct_of_fy26_deficit": 0.2443390700902848
+   },
+   "level_current_policy": {
+    "outlays": 21.194000000000003,
+    "revenue_loss": 254.45799999999997,
+    "deficit": 275.652,
+    "pct_of_increase_treasury": 1.2696772053946492,
+    "pct_of_increase_cbo218": 1.2644587155963303,
+    "pct_of_fy26_deficit": 0.13834666768382808
+   },
+   "yoy_present_law": {
+    "outlays": 178.352,
+    "revenue_loss": 329.597,
+    "deficit": 507.949,
+    "pct_of_increase_treasury": 2.3396574913405552,
+    "pct_of_increase_cbo218": 2.33004128440367,
+    "pct_of_fy26_deficit": 0.2549339438978596
+   },
+   "yoy_current_policy": {
+    "outlays": 174.036,
+    "revenue_loss": 129.84499999999997,
+    "deficit": 303.881,
+    "pct_of_increase_treasury": 1.3997024467536292,
+    "pct_of_increase_cbo218": 1.3939495412844036,
+    "pct_of_fy26_deficit": 0.15251448827662908
+   },
+   "debt_service_fy26": 14.143,
+   "debt_service_yoy": 13.745000000000001,
+   "one_time_student_loan_entry": -131.0,
+   "student_loan_share_of_outlay_swing": 0.7527178284952538,
+   "yoy_current_policy_ex_one_time": 172.88099999999997,
+   "yoy_current_policy_ex_one_time_pct": 0.7963049966836168,
+   "yoy_outlays_ex_one_time": 43.036,
+   "level_pct_of_fy26_deficit": 0.2443390700902848
+  },
+  "q3": {
+   "actual_decline_pct": -0.15632762575510573,
+   "actual_decline": -70.67399999999998,
+   "business_provisions_delta_all_taxpayers": -51.6,
+   "business_provisions_fy25": -100.1,
+   "business_provisions_fy26": -151.7,
+   "corp_share_implied": 0.6460118655240606,
+   "jan25_expected_change": -28.600000000000023,
+   "jan25_path_receipts": 427.39977830819174,
+   "baseline_implied_decline": 48.089,
+   "actual_vs_baseline": -22.58499999999998,
+   "cf": {
+    "A: add back full 16% loss": {
+     "receipts": 452.089,
+     "revenue_diff": 70.67399999999998,
+     "deficit_effect": -70.67399999999998,
+     "deficit_cf": 1921.799,
+     "pct_of_actual_decline": 1.0
+    },
+    "B low (CY2025 vs CY2024, econ basis)": {
+     "receipts": 460.22760845846483,
+     "revenue_diff": 78.81260845846481,
+     "deficit_effect": -78.81260845846481,
+     "deficit_cf": 1913.660391541535,
+     "pct_of_actual_decline": 1.1151570373611912
+    },
+    "C1 score delta x CBO-implied corp share (65%)": {
+     "receipts": 414.7492122610415,
+     "revenue_diff": 33.3342122610415,
+     "deficit_effect": -33.3342122610415,
+     "deficit_cf": 1959.1387877389584,
+     "pct_of_actual_decline": 0.4716616048481975
+    },
+    "C2 CBO Feb-2026 baseline-implied": {
+     "receipts": 429.504,
+     "revenue_diff": 48.089,
+     "deficit_effect": -48.089,
+     "deficit_cf": 1944.384,
+     "pct_of_actual_decline": 0.6804341058946715
+    },
+    "C3 CBO Jan-2025 (pre-OBBBA) path on FY25 actual": {
+     "receipts": 427.39977830819174,
+     "revenue_diff": 45.98477830819172,
+     "deficit_effect": -45.98477830819172,
+     "deficit_cf": 1946.4882216918081,
+     "pct_of_actual_decline": 0.6506604735573441
+    },
+    "C4 CBO-reported FY26 OBBBA corporate effect (level)": {
+     "receipts": 479.415,
+     "revenue_diff": 98.0,
+     "deficit_effect": -98.0,
+     "deficit_cf": 1894.473,
+     "pct_of_actual_decline": 1.3866485553385974
+    }
+   },
+   "profit_growth": {
+    "low (CY2025 vs CY2024, econ basis)": 0.018002226239667074
+   },
+   "profit_growth_tax_basis": {
+    "CY2025 vs CY2024": -0.0005574809707920014
+   },
+   "gross_receipts_change": -43.46300000000002,
+   "refunds_change": 27.211999999999996
+  },
+  "q4": {
+   "denominator": 217.10400000000004,
+   "obbba_total": 303.881,
+   "obbba_pct": 1.3997024467536292,
+   "obbba_outlays": 174.036,
+   "obbba_revenue_loss": 129.84499999999997,
+   "observed_corp_drop": 70.67399999999998,
+   "observed_corp_pct": 0.32553062126906906,
+   "residual_total": -86.77699999999993,
+   "residual_pct": -0.3997024467536292,
+   "net_interest": 114.21499999999992,
+   "other_outlays_plug": 97.56300000000039,
+   "other_revenue_incl_customs_plug": -298.5560000000002,
+   "residual_check": -0.0009999999999763531,
+   "bridge_sum": 1992.4720000000004,
+   "bridge_target": 1992.473,
+   "bridge_check": -0.0009999999995216058,
+   "obbba_debt_service_in_interest": 13.745000000000001,
+   "obbba_present_law": 507.949,
+   "outlay_lines_change": {
+    "National Defense": 48.51099999999997,
+    "International Affairs": 2.844999999999999,
+    "Science/Space/Technology": -2.2070000000000007,
+    "Energy": 0.07900000000000063,
+    "Natural Resources & Environment": -31.214,
+    "Agriculture": 3.2080000000000055,
+    "Commerce & Housing Credit": 13.161000000000001,
+    "Transportation": -2.9399999999999977,
+    "Community & Regional Development": -22.1,
+    "Education/Training/Social Services": 36.537000000000006,
+    "Health (incl. Medicaid)": 46.708999999999946,
+    "Medicare": 75.90699999999993,
+    "Income Security": -7.3599999999999,
+    "Social Security": 86.41100000000006,
+    "Veterans Benefits": 39.04200000000003,
+    "Administration of Justice": 24.733000000000004,
+    "General Government": -2.110999999999997,
+    "Net Interest (Treasury function)": 81.39499999999987,
+    "Undistributed Offsetting Receipts": -4.794000000000011
+   },
+   "revenue_lines_deficit_effect": {
+    "Individual income taxes": -189.48300000000017,
+    "Social insurance (payroll)": -63.498999999999796,
+    "Corporate income taxes": 70.67399999999998,
+    "Net customs duties": 21.64700000000002,
+    "Excise": -0.0589999999999975,
+    "Estate & gift": -9.258,
+    "Miscellaneous": 1.2680000000000007
+   }
+  },
+  "q5": {
+   "gdp": 32253.966370000002,
+   "actual": 1992.473,
+   "actual_pct": 0.0617745109901657,
+   "cases": {
+    "Low removal (current-policy baseline; TCJA-type provisions treated as continuing)": {
+     "effect_removed": 275.652,
+     "deficit": 1716.821,
+     "pct_gdp": 0.05322821324687826,
+     "pct_gdp_at_cbo_implied_gdp": 0.053422506603602656
+    },
+    "Base (CBO/JCT score vs Jan-2025 current-law baseline)": {
+     "effect_removed": 486.839,
+     "deficit": 1505.634,
+     "pct_gdp": 0.046680584419546534,
+     "pct_gdp_at_cbo_implied_gdp": 0.04685097765440235
+    },
+    "High removal (base + debt service)": {
+     "effect_removed": 500.98199999999997,
+     "deficit": 1491.491,
+     "pct_gdp": 0.04624209571283186,
+     "pct_gdp_at_cbo_implied_gdp": 0.04641088837841215
+    }
+   },
+   "fy25_deficit_ex_obbba_current_law": 1796.4789999999998
+  },
+  "provisions": {
+   "rows": [
+    {
+     "label": "TCJA individual rate and bracket extension (Sec. 70101)",
+     "cl": 147.679,
+     "cp": 4.948,
+     "src": "[3] Table 7, Sec. 70101; [5] p. 1, Ch.1 item 1",
+     "kind": "tax",
+     "short": "TCJA individual rate and bracket extension"
+    },
+    {
+     "label": "Standard deduction increase (Sec. 70102)",
+     "cl": 92.124,
+     "cp": 18.959,
+     "src": "[3] Table 7, Sec. 70102; [5] p. 1, Ch.1 item 2",
+     "kind": "tax",
+     "short": "Standard deduction increase"
+    },
+    {
+     "label": "Personal exemption termination, including the temporary senior deduction (Sec. 70103)",
+     "cl": -110.625,
+     "cp": 23.05,
+     "src": "[3] Table 7, Sec. 70103; [5] p. 1, Ch.1 item 3 (includes temporary senior deduction)",
+     "kind": "tax",
+     "short": "Personal exemption end, incl. senior deduction"
+    },
+    {
+     "label": "Child tax credit increase (Sec. 70104)",
+     "cl": 48.769,
+     "cp": 10.014,
+     "src": "[3] Table 7, Sec. 70104; [5] p. 1, Ch.1 item 4",
+     "kind": "tax",
+     "short": "Child tax credit increase"
+    },
+    {
+     "label": "Qualified business income deduction (Sec. 70105)",
+     "cl": 44.331,
+     "cp": 0.388,
+     "src": "[3] Table 7, Sec. 70105; [5] p. 1, Ch.1 item 5",
+     "kind": "tax",
+     "short": "Qualified business income deduction"
+    },
+    {
+     "label": "Alternative minimum tax relief (Sec. 70107)",
+     "cl": 76.835,
+     "cp": -0.742,
+     "src": "[3] Table 7, Sec. 70107; [5] p. 1, Ch.1 item 7",
+     "kind": "tax",
+     "short": "Alternative minimum tax relief"
+    },
+    {
+     "label": "Termination of miscellaneous itemized deductions (Sec. 70110)",
+     "cl": -13.419,
+     "cp": 0.009,
+     "src": "[3] Table 7, Sec. 70110; [5] p. 1, Ch.1 item 10",
+     "kind": "tax",
+     "short": "End of misc. itemized deductions"
+    },
+    {
+     "label": "Limit on tax benefit of itemized deductions (Sec. 70111)",
+     "cl": 16.04,
+     "cp": -1.402,
+     "src": "[3] Table 7, Sec. 70111; [5] p. 1, Ch.1 item 11",
+     "kind": "tax",
+     "short": "Limit on tax benefit of itemized deductions"
+    },
+    {
+     "label": "SALT deduction cap increase (Sec. 70120)",
+     "cl": -31.617,
+     "cp": 34.177,
+     "src": "[3] Table 7, Sec. 70120; [5] p. 2, Ch.1 item 20",
+     "kind": "tax",
+     "short": "SALT deduction cap increase"
+    },
+    {
+     "label": "Other Chapter 1 items (estate and gift tax, mortgage interest, casualty losses, ABLE, other)",
+     "cl": 1.3450000000000273,
+     "cp": 0.2560000000000002,
+     "src": "[3] Table 7, Secs. 70106, 70108, 70109, 70112 to 70119; [5] p. 2, Total of Chapter 1 less listed items",
+     "kind": "tax",
+     "short": "Other Chapter 1 items"
+    },
+    {
+     "label": "No tax on tips (Sec. 70201)",
+     "cl": 10.121,
+     "cp": 10.121,
+     "src": "[3] Table 7, Sec. 70201; [5] p. 2, Ch.2 item 1",
+     "kind": "tax",
+     "short": "No tax on tips"
+    },
+    {
+     "label": "No tax on overtime (Sec. 70202)",
+     "cl": 32.806,
+     "cp": 32.806,
+     "src": "[3] Table 7, Sec. 70202; [5] p. 2, Ch.2 item 2",
+     "kind": "tax",
+     "short": "No tax on overtime"
+    },
+    {
+     "label": "Auto loan interest deduction (Sec. 70203)",
+     "cl": 5.4,
+     "cp": 5.4,
+     "src": "[3] Table 7, Sec. 70203; [5] p. 2, Ch.2 item 3",
+     "kind": "tax",
+     "short": "Auto loan interest deduction"
+    },
+    {
+     "label": "Trump accounts and contribution pilot program (Sec. 70204)",
+     "cl": 6.496,
+     "cp": 6.446,
+     "src": "[3] Table 7, Sec. 70204; [5] p. 2, Ch.2 item 4",
+     "kind": "tax",
+     "short": "Trump accounts and pilot program"
+    },
+    {
+     "label": "100% bonus depreciation, full expensing of business property (Sec. 70301)",
+     "cl": 65.123,
+     "cp": 54.214,
+     "src": "[3] Table 7, Sec. 70301; [5] p. 2, Ch.3 Subch.A item 1",
+     "kind": "tax",
+     "short": "100% bonus depreciation (full expensing)"
+    },
+    {
+     "label": "Immediate domestic research and experimental expensing (Sec. 70302)",
+     "cl": 33.585,
+     "cp": 33.585,
+     "src": "[3] Table 7, Sec. 70302; [5] p. 2, Ch.3 Subch.A item 2",
+     "kind": "tax",
+     "short": "Immediate domestic R&E expensing"
+    },
+    {
+     "label": "Business interest limit, section 163(j) (Sec. 70303)",
+     "cl": 6.519,
+     "cp": 6.519,
+     "src": "[3] Table 7, Sec. 70303; [5] p. 2, Ch.3 Subch.A item 3",
+     "kind": "tax",
+     "short": "Business interest limit, section 163(j)"
+    },
+    {
+     "label": "Special depreciation for qualified production property (Sec. 70307)",
+     "cl": 30.28,
+     "cp": 30.28,
+     "src": "[3] Table 7, Sec. 70307; [5] p. 3, Ch.3 Subch.A item 7",
+     "kind": "tax",
+     "short": "Qualified production property depreciation"
+    },
+    {
+     "label": "Other domestic business items (section 179 limits, advanced manufacturing credit, leave credit, meals, spaceports)",
+     "cl": 6.175000000000011,
+     "cp": 3.708999999999989,
+     "src": "[3] Table 7, Secs. 70304 to 70306, 70308, 70309; [5] pp. 2-3, Ch.3 Subch.A items 4 to 6, 8, 9",
+     "kind": "tax",
+     "short": "Other domestic business items (Ch. 3, Subch. A)"
+    },
+    {
+     "label": "International tax provisions (Chapter 3 Subchapter B; includes the Part IV interest-limit coordination items)",
+     "cl": 10.321,
+     "cp": 1.0769999999999982,
+     "src": "[3] Table 7, Secs. 70311 to 70354; [5] p. 3, Total of Chapter 3 less Subchapter A items",
+     "kind": "tax",
+     "short": "International tax provisions (Ch. 3, Subch. B)"
+    },
+    {
+     "label": "Qualified small business stock gain exclusion expansion (Sec. 70431)",
+     "cl": -0.056,
+     "cp": -0.056,
+     "src": "[3] Table 7, Sec. 70431; [5] p. 5, Ch.4 Subch.D item 1",
+     "kind": "tax",
+     "short": "QSBS gain exclusion expansion"
+    },
+    {
+     "label": "Other Chapter 4 items (families, education, community development, small business, rural)",
+     "cl": 4.321,
+     "cp": -0.837,
+     "src": "[3] Table 7, Secs. 70401 to 70439 less 70431; [5] p. 5, Total of Chapter 4 less QSBS",
+     "kind": "tax",
+     "short": "Other Chapter 4 items"
+    },
+    {
+     "label": "Termination of qualified commercial clean vehicles credit (Sec. 70503)",
+     "cl": -8.303,
+     "cp": -8.303,
+     "src": "[3] Table 7, Sec. 70503; [5] p. 5, Ch.5 Subch.A item 3",
+     "kind": "tax",
+     "short": "Termination of commercial clean vehicles credit"
+    },
+    {
+     "label": "Other energy provisions (Chapter 5)",
+     "cl": -1.3170000000000002,
+     "cp": -1.315999999999999,
+     "src": "[3] Table 7, Secs. 70501 to 70531 less 70503; [5] p. 6, Total of Chapter 5 less item 3",
+     "kind": "tax",
+     "short": "Other energy provisions (Chapter 5)"
+    },
+    {
+     "label": "Deduction and credit guardrails and other reforms (Chapter 6)",
+     "cl": -3.7340000000000004,
+     "cp": -3.742,
+     "src": "[3] Table 7, Secs. 70601 to 70607; [5] p. 7, Total of Chapter 6",
+     "kind": "tax",
+     "short": "Guardrails and other reforms (Chapter 6)"
+    },
+    {
+     "label": "Health tax provisions (premium tax credit rules, HSA changes; Subtitle B, Chapter 3)",
+     "cl": -3.0500000000000003,
+     "cp": -4.504,
+     "src": "[3] Table 7, Secs. 71301 to 71308 (revenue and outlay rows); [5] p. 7, Subtitle B Chapter 3 total",
+     "kind": "tax",
+     "short": "Health tax provisions (Subtitle B, Ch. 3)"
+    },
+    {
+     "label": "Medicaid (Subtitle B, Chapter 1)",
+     "cl": -18.076999999999998,
+     "cp": -18.076999999999998,
+     "src": "[3] Table 7, Secs. 71101 to 71121 (sum of section rows; the sheet has no chapter subtotal)",
+     "kind": "outlay",
+     "short": "Medicaid (Subtitle B, Chapter 1)"
+    },
+    {
+     "label": "Medicare and rural health (Subtitle B, Chapters 2 and 4)",
+     "cl": 1.693,
+     "cp": 1.693,
+     "src": "[3] Table 7, Secs. 71201 to 71203 and 71401",
+     "kind": "outlay",
+     "short": "Medicare and rural health (Subtitle B)"
+    },
+    {
+     "label": "SNAP and other nutrition (Title I, Subtitle A)",
+     "cl": -7.961,
+     "cp": -7.961,
+     "src": "[3] Table 1, Subtotal, Subtitle A",
+     "kind": "outlay",
+     "short": "SNAP and other nutrition (Title I, Subtitle A)"
+    },
+    {
+     "label": "Student loans: loan limits and loan repayment (Title VIII, Subtitles B and C)",
+     "cl": -13.05,
+     "cp": -13.05,
+     "src": "[3] Table 8, Subtotals for Subtitles B and C",
+     "kind": "outlay",
+     "short": "Student loans (Title VIII, Subtitles B, C)"
+    },
+    {
+     "label": "Pell Grants (Title VIII, Subtitle D)",
+     "cl": 2.73,
+     "cp": 2.73,
+     "src": "[3] Table 8, Subtotal, Subtitle D",
+     "kind": "outlay",
+     "short": "Pell Grants (Title VIII, Subtitle D)"
+    },
+    {
+     "label": "Other Title VIII (asset exemption, regulatory relief, other, interactions)",
+     "cl": -0.26399999999999935,
+     "cp": -0.26399999999999935,
+     "src": "[3] Table 8, Subtitles A, E, F, G, H and Total Interactions",
+     "kind": "outlay",
+     "short": "Other Title VIII items"
+    },
+    {
+     "label": "Defense (Title II)",
+     "cl": 41.864,
+     "cp": 41.864,
+     "src": "[3] Table 2, Total Changes in Direct Spending",
+     "kind": "outlay",
+     "short": "Defense (Title II)"
+    },
+    {
+     "label": "Homeland security (Title IX)",
+     "cl": 9.511,
+     "cp": 9.511,
+     "src": "[3] Table 9, Total Changes in Direct Spending",
+     "kind": "outlay",
+     "short": "Homeland security (Title IX)"
+    },
+    {
+     "label": "Immigration and judiciary, net of fee revenue (Title X)",
+     "cl": 2.289,
+     "cp": 2.289,
+     "src": "[3] Table 10, outlays less Subtitle A revenues",
+     "kind": "outlay",
+     "short": "Immigration and judiciary, net (Title X)"
+    },
+    {
+     "label": "Other titles (Title I Subtitles B to F; Titles III to VI)",
+     "cl": 1.8610000000000007,
+     "cp": 1.8610000000000007,
+     "src": "[3] Table 1 less Subtitle A; Summary Table (Titles III, IV); Tables 5, 6",
+     "kind": "outlay",
+     "short": "Other titles (I excl. Subtitle A; III to VI)"
+    },
+    {
+     "label": "Unallocated: Title VII total less the sum of its section rows (rounding in the source; current law only)",
+     "cl": 0.09400000000005093,
+     "cp": 0.0,
+     "src": "[3] Table 7 totals less section rows",
+     "kind": "recon",
+     "short": "Unallocated: Title VII total less the sum of its section rows (rounding in the source; current law only)"
+    },
+    {
+     "label": "Interactions among titles",
+     "cl": 0.0,
+     "cp": 0.0,
+     "src": "[3] Summary Table",
+     "kind": "recon",
+     "short": "Interactions among titles"
+    },
+    {
+     "label": "Total: the act's FY2026 deficit effect",
+     "cl": 486.83900000000006,
+     "cp": 275.652,
+     "src": "Section 3.1, Table 2",
+     "kind": "total",
+     "short": "Total: the act's FY2026 deficit effect"
+    }
+   ],
+   "reconciliation": {
+    "rows_cl": 486.745,
+    "rows_cp": 275.652,
+    "t7_resid": 0.09400000000005093,
+    "t7_rows_cl": 449.765,
+    "cl_total_paper": 486.839,
+    "cl_total_rows": 486.83900000000006,
+    "cl_gap": -5.684341886080802e-14,
+    "cp_total_paper": 275.652,
+    "cp_total_rows": 275.652,
+    "cp_gap_before_reconciling_items": 0.0,
+    "cp_gap_tax_outlays_in_both": 5.144,
+    "cp_gap_medicaid_revenue_in_rows_only": -0.47,
+    "cp_gap_check": 0.0
+   },
+   "tax_subtotal_cl": 466.14900000000006,
+   "tax_subtotal_cp": 255.05599999999998,
+   "outlay_subtotal_cl": 20.596,
+   "outlay_subtotal_cp": 20.596,
+   "jcx35_net_total_fy26": -464.627,
+   "cbo_title7_revenue_fy26": -461.569,
+   "jct_outlay_effects_implied_by_jcx35_less_cbo_revenue": 3.0579999999999927
+  },
+  "student_loans": {
+   "fy2025_scored": -149.99,
+   "fy2026_scored": -13.05,
+   "change": 136.94,
+   "recorded_one_time_entry_sept2025": -131.0,
+   "headline_change": 303.881,
+   "scored_change_share_of_headline": 0.4506369269549594,
+   "recorded_entry_share_of_headline": 0.43108980159996846,
+   "memo_excluding_recorded_entry": 172.88099999999997,
+   "memo_excluding_recorded_entry_pct_of_increase": 0.7963049966836168
+  },
+  "inputs_check": {
+   "mts_function_sum_matches_outlays": -0.0020000000004074536,
+   "mts_function_sum_fy25_matches": 0.0,
+   "revenue_lines_sum_matches": 0.0,
+   "revenue_lines_sum_fy25": 0.0010000000002037268
+  }
+ }
+}
